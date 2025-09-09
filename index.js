@@ -1,2 +1,2 @@
-const testname = "Phatyut";
-console.log(testname);
+const testclone = require("./component/testclone")
+console.log(testclone)
