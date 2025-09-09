@@ -1,2 +1,1 @@
-const testclone = require("./component/testclone")
-console.log(testclone)
+const counter = require("./component/conster")
